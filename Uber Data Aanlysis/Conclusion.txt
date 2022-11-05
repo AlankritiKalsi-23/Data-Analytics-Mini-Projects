@@ -1,0 +1,11 @@
+CONCLUSIONS:
+1. December has the maximum number of bookings - which indicates Christmas and the end year rush
+2. Most bookings are for business
+3. Charity, commute, and moving are only personal trips
+4. Between offices and the airport is totally business trips
+5. Cary is the most frequent start and stop location
+6. Seasonal pattern 
+7. Most trips are for meeting purposes
+8. usually we don't have round trips
+9. The average time is 23 minutes for trips
+10. Max cabs were books for meals and entertainment in the month of March.
